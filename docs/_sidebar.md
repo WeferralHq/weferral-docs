@@ -2,10 +2,10 @@
 
 * [HOME](./)
 
-* [Campaign](./campaign)
+* [Campaign](/campaign)
 
-* [Setting up emails](./setup_emails)
+* [Setting up emails](/setup_emails)
 
-* [Webhooks](./webhooks)
+* [Webhooks](/webhooks)
 
-* [Weferral javascript](./weferral_javascript)
+* [Weferral javascript](/weferral_javascript)
