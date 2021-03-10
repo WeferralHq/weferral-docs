@@ -1,5 +1,7 @@
 # What are Campaigns?
 
+![Screenshot](./images/campaigns.png)
+
 Campaigns allow you to set different rewards with different messaging for your affiliates, influencers and ambassadors. For ex, your basic affiliates may have their own campaign with a specific reward(like $50 reward per sale) and your influencers(persons of high authority in their fields) may have 25% recurring commission.
 
 Each campaign has its own set of emails, its own participant signup page and participant(affiliate) dashboard.
